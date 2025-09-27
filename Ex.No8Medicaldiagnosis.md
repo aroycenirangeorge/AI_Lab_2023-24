@@ -49,7 +49,7 @@ symptom(raju,sore_throat).
 ```
 ### Output:
 
-<img width="966" height="521" alt="image" src="https://github.com/user-attachments/assets/51309d38-fa76-46a6-b03b-da45b0250525" />
+<img width="1067" height="493" alt="image" src="https://github.com/user-attachments/assets/328493ff-efd6-4de7-b2c9-812e818d77cf" />
 
 
 ### Result:
