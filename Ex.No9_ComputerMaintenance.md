@@ -42,7 +42,8 @@ problem(blank_display).
 
 
 ### Output:
-<img width="958" height="451" alt="image" src="https://github.com/user-attachments/assets/a2d3e2f3-e69b-4a14-ba72-471bc6d07f0b" />
+<img width="1068" height="410" alt="image" src="https://github.com/user-attachments/assets/f0672e9c-7c9a-441d-ba33-f754bffba5fa" />
+
 
 ### Result:
 Thus the simple omputer maintenance expert system was built sucessfully.
