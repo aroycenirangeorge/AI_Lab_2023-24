@@ -36,7 +36,8 @@ food(peanuts).
 
 
 ### Output:
-<img width="967" height="759" alt="image" src="https://github.com/user-attachments/assets/5e24961b-8d84-4bb1-a380-fca278fef107" />
+<img width="1071" height="752" alt="image" src="https://github.com/user-attachments/assets/e98453bf-d7a3-48fc-8c57-e993e07b21a4" />
+
 
 ### Task 2:
 Consider the following facts and represent them in predicate form: <br>              
@@ -57,7 +58,8 @@ course(bk301,dept(havefun)).
 ```
 
 ### Output:
-<img width="975" height="435" alt="image" src="https://github.com/user-attachments/assets/4b2b23ab-4071-404d-afff-853e1aa95134" />
+<img width="1073" height="382" alt="image" src="https://github.com/user-attachments/assets/d636106f-3152-402e-a19a-e04e68e11739" />
+
 
 
 ### Task 3:
@@ -86,7 +88,7 @@ american(west).
 
 
 ### Output:
-<img width="973" height="481" alt="image" src="https://github.com/user-attachments/assets/bb6c7f97-e5c7-4094-974d-4b621926aff4" />
+<img width="1068" height="406" alt="image" src="https://github.com/user-attachments/assets/6255dcbb-2e50-457b-92e3-2049eb93514b" />
 
 ### Result:
 Thus the prolog programs were executed successfully and the answer of query was found.
