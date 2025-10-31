@@ -156,11 +156,5 @@ Terminal Output:
 <img width="996" height="544" alt="image" src="https://github.com/user-attachments/assets/2bf00213-d1a7-4dc9-b3d6-07f26550a73e" />
 
 
-Visual Output:
-<img width="794" height="873" alt="image" src="https://github.com/user-attachments/assets/354c0021-2384-49d7-87fe-8b8f855d70ad" />
-
-
-
-
 ### Result:
 Thus the system was trained successfully and the prediction was carried out.
